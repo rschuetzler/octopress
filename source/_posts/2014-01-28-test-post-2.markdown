@@ -6,4 +6,4 @@ comments: true
 categories: 
 ---
 
-And yet another test. This one should go live. Tryng again.
+And yet another test. This one should go live. Trying again.
