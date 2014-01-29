@@ -1,0 +1,9 @@
+---
+layout: post
+title: "test post 2"
+date: 2014-01-28 20:30:17 -0700
+comments: true
+categories: 
+---
+
+And yet another test. This one should go live.
