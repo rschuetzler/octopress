@@ -1,0 +1,9 @@
+---
+layout: post
+title: "test post"
+date: 2014-01-28 19:51:49 -0700
+comments: true
+categories: 
+---
+
+I have no idea what to expect from this, but I hope it's good.
