@@ -2,8 +2,6 @@
 layout: post
 title: I have nothing to say
 categories: blog
-tags:
-- stuff i love
 status: publish
 type: post
 published: true
@@ -11,7 +9,7 @@ published: true
 
 I'm sure I'm not the only one who feels this way sometimes. I just sat down at
 the computer to write a blog post, and within seconds my mind had gone
-completely blank. I stared at the \"Your Post Title\" block at the top of the
+completely blank. I stared at the "Your Post Title" block at the top of the
 page, and the two giant white block for writing, and absolutely nothing came to
 mind. Absolutely nothing.
 
