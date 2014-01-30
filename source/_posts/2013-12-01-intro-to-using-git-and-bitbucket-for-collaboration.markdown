@@ -100,16 +100,20 @@ addition of the new.  ![Committing](http://i.imgur.com/f8qwB8o.png)
 that are doing the same thing to one commit, but separate unrelated changes to
 multiple files into several commits.  \t1. If you've made a change you want to
 get rid of, you can discard the changes and revert to the last committed version
-of the file by right-clicking the file and choosing \"Discard changes.\" Be
+of the file by right-clicking the file and choosing "Discard changes." Be
 careful when doing this, as all of your changes to that file will be lost.
 5. Type a commit message in the box on the left. This message should be a short
-   description of the change, written in the imperative (e.g., \"Fix bug\"
-   rather than \"Fixed bug\" or \"Fixes bug.\"
+   description of the change, written in the imperative (e.g., "Fix bug"
+   rather than "Fixed bug" or "Fixes bug."
 6. Type a longer description of the change in the box below if necessary. If the
 change can be summarized with just the commit message, that's fine, but if
 you're doing anything fancy, be sure to explain the change in the commit
 message.
-7. If you want, you can publish your branch to Bitbucket by clicking the Publish button. You can also keep that branch to yourself if you'd rather not share. Since we'll be merging our own changes into Master, there's no need to push things up, but it can be helpful if you want somebody else to look at your branch.  
+7. If you want, you can publish your branch to Bitbucket by clicking the Publish
+   button. You can also keep that branch to yourself if you'd rather not
+   share. Since we'll be merging our own changes into Master, there's no need to
+   push things up, but it can be helpful if you want somebody else to look at
+   your branch.
 
 ### Merging branches
 
@@ -129,13 +133,13 @@ that's called "breaking the build," and you owe the team lunch. Or something.
 
 ![Manage merge](http://i.imgur.com/2Iy6UuF.png)
 
-5. Drag your branch to the first box in the \"merge\" area at the bottom.
+5. Drag your branch to the first box in the "merge" area at the bottom.
 6. Drag the master branch to the second box. master should appear in the blue
    box to the right.
 
 ![Merging](http://i.imgur.com/o5NpTt8.png)
 
-7. Click \"merge\" to merge your changes.
+7. Click "merge" to merge your changes.
 8. Press the sync button to push your changes to the Bitbucket repository so
    everyone can see them.
 
