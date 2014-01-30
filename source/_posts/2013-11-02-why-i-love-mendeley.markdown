@@ -19,6 +19,8 @@ nonsensical names their publishers give them in a million places on my hard
 drive. That's when I first discovered [Mendeley](http://www.mendeley.com/). It
 was a dream come true.
 
+<!-- more -->
+
 Mendeley is a cross-platform software program for managing research. It can
 consolidate files into a single directory, manage metadata for each article,
 search the metadata, tag and highlight PDFs, and a whole bunch

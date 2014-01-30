@@ -28,6 +28,8 @@ So here's the guide. Feel free to use this for your own projects, or to
 introduce the git workflow to colleagues. I'll probably add to this as I learn
 more and better understand common problems.
 
+<!-- more -->
+
 ## Setup
 
 1. Download and install Github
