@@ -1,13 +1,10 @@
 ---
 layout: page
-title: "home"
-date: 2014-02-05 21:35
+title: "About me"
 comments: true
 sharing: true
 footer: true
 ---
-
-## About me
 
 I'm a doctoral student at the University of Arizona. I'm a husband and a father
 of two awesome kids.
