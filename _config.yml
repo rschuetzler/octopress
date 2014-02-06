@@ -3,8 +3,8 @@
 # ----------------------- #
 
 url: http://www.schuetzler.net
-title: Some thoughts
-subtitle: I don't always think, but when I do, I post it here.
+title: Ryan Schuetzler
+subtitle: Researcher extraordinaire
 author: Ryan Schuetzler
 simple_search: http://google.com/search
 description:
@@ -73,7 +73,7 @@ twitter_user: rschuetzler
 twitter_tweet_button: true
 
 # Google +1
-google_plus_one: false
+google_plus_one: true
 google_plus_one_size: medium
 
 # Google Plus Profile
