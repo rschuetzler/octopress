@@ -5,6 +5,8 @@ categories: blog
 status: publish
 type: post
 published: true
+comments: true
+sharing: true
 ---
 
 I love software that makes my life easier. As an academic, I do a lot of

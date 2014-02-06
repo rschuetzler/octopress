@@ -5,6 +5,8 @@ categories: blog
 status: publish
 type: post
 published: true
+comments: true
+sharing: true
 ---
 
 I have been trying for a few years to get my coworkers to work on projects

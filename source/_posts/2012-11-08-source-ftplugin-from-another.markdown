@@ -10,6 +10,8 @@ description: Something I learned while trying to be awesome
 
 categories: vim
 
+comments: true
+sharing: true
 ---
 
 I recently read an article about [using Vim for writing

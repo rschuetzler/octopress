@@ -3,6 +3,8 @@ layout: post
 title: Busy Busy
 published: true
 description: Just getting back to blogging. Life is good.
+comments: true
+sharing: true
 ---
 Life is busy. That is all.
 

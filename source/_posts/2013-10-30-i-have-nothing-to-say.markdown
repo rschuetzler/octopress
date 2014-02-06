@@ -5,6 +5,8 @@ categories: blog
 status: publish
 type: post
 published: true
+comments: true
+sharing: true
 ---
 
 I'm sure I'm not the only one who feels this way sometimes. I just sat down at
