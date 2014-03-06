@@ -34,11 +34,11 @@ for ICIS this year.
 Currently it's a work in progress, but it's nearly complete. The only remaining
 task is to get bibtex to properly format citations. ICIS has elected to use the
 MISQ citation style rather than a standard style like Chicago or APA, so I'll
-get to did into the depths of bibtex to get those formatted correctly.
+get to dig into the depths of bibtex to get those formatted correctly.
 
 In the meantime, it's a fully functioning template. Download it from Github at
 the link below, take it for a spin, and let me know if you run into any
-problems. Any existing bugs would just be further opportunity to learn about the
+problems. Any bugs would just be further opportunity to learn about the
 details of LaTeX.
 
 [LaTeX ICIS template on Github](https://github.com/rschuetzler/latex-icis-template)
