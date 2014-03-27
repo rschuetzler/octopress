@@ -1,5 +1,6 @@
 ---
-layout: default
+layout: page
+comments: false
 ---
 
 ## Who is Ryan Schuetzler?
