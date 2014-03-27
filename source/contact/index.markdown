@@ -2,6 +2,7 @@
 layout: page
 comments: false
 title: Contact Information
+sharing: false
 ---
 
 The best way to get in touch with me is via my Gmail address:
