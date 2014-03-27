@@ -17,11 +17,3 @@ later converted to emacs in an effort to make my daily work writing, developing,
 and doing statistics as awesome as possible. I'm a huge fan of LaTeX for writing
 documents, and I'm looking forward to picking up knitr to make it even more
 awesome.
-
-<aside class="sidebar">
-  {% if site.blog_index_asides.size %}
-    {% include_array blog_index_asides %}
-  {% else %}
-    {% include_array default_asides %}
-  {% endif %}
-</aside>
