@@ -90,4 +90,51 @@ using a whole bunch of new packages.
 
 ## Step 2: Creating your first article
 
+Here I've created a `.tex` file containing everything you'll need to get
+started. Create your own file ending in `.tex`, and make sure Windows isn't
+automatically adding a `.txt` to it. You can do it in TeXworks, the MiKTeX
+bundled TeX editor, by pressing File -> New. I'm not sure what editor, if any,
+comes with TeXLive, so you're on your own until someone comments to tell me.
 
+{% gist 11290131 basic.tex %}
+
+The basic structure of a LaTeX document is as follows:
+
+1. Preamble. This holds all of the package information, function definitions,
+   and the `documentclass`.
+    1. `\documentclass{}` tells LaTeX what kind of document you are creating. If
+       you wanted to have chapters, you could use the `report` class. Since we
+       are creating a basic article, we will use the `article` class.
+    2. `\title{This Is My First Document}` tells LaTeX what the title of the
+       document will be. This will be used in the `\maketitle` command below
+	3. `\author{Ryan Schuetzler}` is where you'll put your name.
+2. The `document` environment is where the body of the document will
+   reside. This encompasses everything between `\begin{document}` and
+   `\end{document}`.
+    1. `\maketitle` tells LaTeX to put the title of the document here. This is
+       basically the header, and is defined by the `documentclass`
+	2. `\section{}` `\subsection{}` and `\subsubsection{}` are the three levels
+       of section headings available in LaTeX. They basically correspond to
+       Heading 1, 2, and 3 in Word. If you want to go even deeper, you can use
+       `\paragraph{}` and `\subparagraph{}`, but maybe you should first consider
+       whether you really want to go that far down in headings.
+
+In the document environment, paragraphs are separated by an empty line of
+text. You can put as many sentences as you want on one line, and LaTeX will
+automatically format them as a single paragraph. My preferred method, however,
+is to create new lines every ~80 characters. As long as they are all together,
+LaTeX will format them as one paragraph.
+
+Once you've created your `.tex` file, compile it with pdfLaTeX. I default in
+MiKTeX to using the pdfLaTeX+MakeIndex+BibTeX compilation, since that will
+usually run everything I need. Press the green button that looks like this:
+
+![Compile that sucker!](http://i.imgur.com/LBszbx7.png)
+
+Assuming that worked, you're done! You have successfully compiled your first
+LaTeX article. And you have everything you need to begin creating a document of
+your own. Create your headers, add some text, and watch LaTeX work its
+magic. Don't worry about the specifics of formatting for now. If you don't like
+the section numbers, or the indentation of paragraphs, or the date in the title,
+that's fine. All of that can be changed later, independent of the actual text
+you write. So get started!
