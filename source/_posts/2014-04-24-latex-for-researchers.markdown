@@ -27,6 +27,7 @@ Here are just a couple of the advantages of LaTeX:
    documents. You can create versions of your document as you go along, which
    allows you to keep old versions around without having 65 copies of the draft
    in your working directory.
+<!-- more -->
 3. Table and Figure cross-references. Oh boy is this a great one. Word tries to
    do this, but inevitably when you move things around, the cross-references
    will break. With LaTeX you can simply use the `\ref{}` command to reference a
