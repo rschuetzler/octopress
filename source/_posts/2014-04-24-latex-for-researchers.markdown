@@ -96,7 +96,7 @@ automatically adding a `.txt` to it. You can do it in TeXworks, the MiKTeX
 bundled TeX editor, by pressing File -> New. I'm not sure what editor, if any,
 comes with TeXLive, so you're on your own until someone comments to tell me.
 
-{% gist 11290131 basic.tex %}
+<script src="https://gist.github.com/rschuetzler/11290131.js"></script>
 
 The basic structure of a LaTeX document is as follows:
 
