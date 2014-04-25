@@ -126,6 +126,8 @@ automatically format them as a single paragraph. My preferred method, however,
 is to create new lines every ~80 characters. As long as they are all together,
 LaTeX will format them as one paragraph.
 
+## Step 3: Compile
+
 Once you've created your `.tex` file, compile it with pdfLaTeX. I default in
 MiKTeX to using the pdfLaTeX+MakeIndex+BibTeX compilation, since that will
 usually run everything I need. Press the green button that looks like this:
