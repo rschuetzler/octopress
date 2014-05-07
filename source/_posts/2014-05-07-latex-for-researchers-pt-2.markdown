@@ -48,6 +48,7 @@ work to learn, but in the long run, the payoff in terms of reduced headaches,
 panic attacks, and nights spent crying wondering why you can't change the title
 of this article to Title Case will make it all worthwhile. So let's get started
 
+<!-- more -->
 ### Requirements
 
 There are two basic requirements for citing papers in LaTeX: (1) a .bib file
