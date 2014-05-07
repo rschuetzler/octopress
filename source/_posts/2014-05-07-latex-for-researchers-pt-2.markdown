@@ -46,7 +46,7 @@ collaborating with a bunch of people.
 So, why not use LaTeX? As with all things LaTeX, it's going to take a bit of
 work to learn, but in the long run, the payoff in terms of reduced headaches,
 panic attacks, and nights spent crying wondering why you can't change the title
-of this article to Title Case will make it all worthwhile. So let's get started
+of this article to Title Case will make it all worthwhile. So let's get started.
 
 <!-- more -->
 ### Requirements
