@@ -141,3 +141,5 @@ magic. Don't worry about the specifics of formatting for now. If you don't like
 the section numbers, or the indentation of paragraphs, or the date in the title,
 that's fine. All of that can be changed later, independent of the actual text
 you write. So get started!
+
+[Continue on to Part 2: Citations](http://www.schuetzler.net/blog/latex-for-researchers-pt-2/).
