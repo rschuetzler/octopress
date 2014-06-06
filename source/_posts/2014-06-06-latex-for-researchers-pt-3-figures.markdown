@@ -17,6 +17,8 @@ next major items we need to be able to put in a research manuscript are
 figures. First we'll talk about differences between LaTeX and Word in how they
 handle figures. Then we'll dig into how to include figures in our document.
 
+<!-- more -->
+
 ## Floats in LaTeX
 
 When you have a desire to put a figure or table into a Word document, you throw
