@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "LaTeX for Researchers, Part 1 - Setting up"
+title: "LaTeX for Researchers, Part 1: Setting up"
 date: 2014-04-24 16:26:58 -0700
 comments: true
 categories: 
@@ -142,4 +142,4 @@ the section numbers, or the indentation of paragraphs, or the date in the title,
 that's fine. All of that can be changed later, independent of the actual text
 you write. So get started!
 
-[Continue on to Part 2: Citations](http://www.schuetzler.net/blog/latex-for-researchers-pt-2/).
+[Continue on to Part 2: Citations](http://www.schuetzler.net/blog/latex-for-researchers-pt-2/)

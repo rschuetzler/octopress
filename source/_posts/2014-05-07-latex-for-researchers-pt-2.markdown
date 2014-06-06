@@ -181,3 +181,5 @@ You can see a couple things here that we haven't talked about yet.
 Well, I think that about covers it. You now have the tools you need to
 automatically generate a bibliography as you are writing your master works. Next
 time we'll cover how to insert figures and, if you're lucky, tables.
+
+[Continue to Part 3: Figures](http://www.schuetzler.net/blog/latex-for-researchers-pt-3-figures/)
