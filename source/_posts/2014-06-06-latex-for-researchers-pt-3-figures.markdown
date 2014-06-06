@@ -144,7 +144,7 @@ action:
 
 The `\ref` automatically fills in the number of the image labeled
 fig:smile. That way when you add more figures or move things around, the
-reference in the text is always the same. I used the tilde (`~`) to provide a
+reference in the text is always the same. I used the tilde `~` to provide a
 non-breaking space. This means that there will never be a line break between the
 word Figure and the figure number. It's just a good idea to keep things looking
 nice.
