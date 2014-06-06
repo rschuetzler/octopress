@@ -67,8 +67,7 @@ example I'll use
 that I've saved to my figs folder and named `smiley.png`. When I want to include
 it in my document, I do so with the following code:
 
-<script
-src="https://gist.github.com/rschuetzler/b16d49ca8ee29cde55ca.js"></script>
+<script src="https://gist.github.com/rschuetzler/b16d49ca8ee29cde55ca.js"></script>
 
 Let's deconstruct what exactly we have here. First off, we start a `figure`
 environment. This environment is a floating environment, so it takes the
