@@ -39,6 +39,7 @@ out some of the more violent and/or vulgar cartoons.
 allows PG content, but I haven't tested it to make sure.
 * Teens: This will keep out TV-MA and R rated movies. It leaves in PG-13 and TV-14
 shows. Also filters out shows that are Not Rated.
+* Adults: No filters
 
 The biggest issue I have is with the filtering of Not Rated content. This includes many
 documentaries, including nature shows that I like to watch with my kids. I understand why
