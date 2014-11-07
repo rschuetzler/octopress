@@ -3,6 +3,7 @@ layout: post
 title: "LaTeX for Researchers, Part 4: Tables"
 date: 2014-07-18 13:46:45 -0700
 comments: true
+published: false
 categories: 
 ---
 
