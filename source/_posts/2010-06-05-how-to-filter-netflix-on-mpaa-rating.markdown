@@ -2,17 +2,12 @@
 layout: post
 title: How to filter Netflix on MPAA Rating
 published: true
-meta:
-  openid_comments: a:1:{i:0;s:3:"470";}
 tags:
 - filter
 - movies
 - Netflix
 - Posts
-type: post
-status: publish
 comments: true
-sharing: true
 ---
 
 UPDATE (2014-11-07) Since this is one of the more popular posts on my site, I suppose it's
