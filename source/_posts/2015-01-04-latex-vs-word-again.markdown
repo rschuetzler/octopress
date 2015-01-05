@@ -3,7 +3,6 @@ layout: post
 title: "LaTeX vs Word (again)"
 date: 2015-01-04 20:41:47 -0700
 comments: true
-published: false
 categories: 
 ---
 
