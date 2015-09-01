@@ -6,8 +6,9 @@ sharing: false
 footer: true
 ---
 
-I'm a doctoral student at the University of Arizona. I'm a husband and a father
-of two awesome kids.
+I'm an Assistant Professor of Information Systems at the University of
+Nebraska at Omaha. I'm a husband and a father
+of three awesome kids.
 
 I'm also an aspiring nerd. I love trying new technology, but I also love the old
 stuff. I'm currently in the transition from Vim to Emacs, and I'm a huge fan. I
