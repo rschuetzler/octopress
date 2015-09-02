@@ -16,7 +16,7 @@ like to think of myself as a programmer, but I'm definitely not. Maybe someday.
 
 ## Research Interests
 
-In my time at the University of Arizona, I've picked up a pretty broad spectrum
+I've picked up a pretty broad spectrum
 of interests. I follow a design science research methodology, and I really love
 making things that have real world uses. My main research focus is on building
 interactive and intelligent interfaces. I've built a chat bot based interviewing
