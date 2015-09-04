@@ -2,11 +2,6 @@
 layout: post
 title: First Python Program - Wake on Wan
 published: true
-meta: 
-  _edit_last: "1"
-  blogger_author: Ryanhttp://www.blogger.com/profile/13005743548475422193noreply@blogger.com
-  blogger_blog: tech.theschuetzlers.com
-  blogger_permalink: /2009/06/first-python-program-wake-on-wan.html
 tags: 
 - Posts
 - programming
@@ -16,7 +11,6 @@ tags:
 type: post
 status: publish
 comments: true
-
 ---
 
 So, I decided to start learning Python because I feel the need to get better at
