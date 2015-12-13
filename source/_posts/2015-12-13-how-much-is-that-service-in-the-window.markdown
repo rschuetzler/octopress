@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "How Much is that Service in the Window?"
-date: 2015-11-19 17:05:42 -0600
+date: 2015-12-13 17:05:42 -0600
 comments: true
 published: true
 categories:
